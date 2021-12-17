@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639105870 source:c:\users\user\desktop\c++\12-11-2021\mod10\main.cpp
+	"mll.h"
+
+1639105801 source:c:\users\user\desktop\c++\12-11-2021\mod10\mll.cpp
+	"mll.h"
+
+1639105594 c:\users\user\desktop\c++\12-11-2021\mod10\mll.h
+	<iostream>
+
